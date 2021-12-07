@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Santander Clone</string>
+    <string name="label_saldo_disponivel">Balance avaiable</string>
+    <string name="label_saldo_limite">Balance + Limit</string>
+    <string name="label_ver_extrato">View Extract</string>
+    <string name="label_pagar">Pay</string>
+    <string name="label_transferir">Transfer</string>
+    <string name="label_recarga">Recharge</string>
+    <string name="label_cartao_final">Final card <b>0033</b></string>
+    <string name="label_notifications">Notifications</string>
+    <string name="label_menu_home">Main menu</string>
+    <string name="pix">Pix</string>
+    <string name="label_cartao_online">Online Card</string>
+    <string name="label_cobrar">Charge</string>
+</resources>

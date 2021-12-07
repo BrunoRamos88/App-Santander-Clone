@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Santander Clone</string>
+    <string name="label_saldo_disponivel">Saldo disponível</string>
+    <string name="label_saldo_limite">Saldo + Limite:  </string>
+    <string name="label_ver_extrato">Ver extrato</string>
+    <string name="label_pagar">Pagar</string>
+    <string name="label_transferir">Transferir</string>
+    <string name="label_recarga">Recarga</string>
+    <string name="label_cartao_final">Cartão final <b>0033</b></string>
+    <string name="label_notifications"><b>Notificações</b></string>
+    <string name="label_cobrar">Cobrar</string>
+    <string name="label_menu_home">Menu principal</string>
+    <string name="pix">Pix</string>
+    <string name="label_cartao_online">Cartão Online</string>
+</resources>
